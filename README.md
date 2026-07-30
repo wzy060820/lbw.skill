@@ -11,7 +11,7 @@
 ## 文件结构
 
 ```
-lbw-skill/
+lbw.skill/
 ├── README.md              ← 你正在看的文件
 ├── TEMPLATE.md            ← 创建属于你自己 skill 的问答模板
 ├── LICENSE                ← MIT
@@ -26,7 +26,7 @@ lbw-skill/
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/wzy060820/lbw-skill.git
+   git clone https://github.com/wzy060820/lbw.skill.git
    ```
 
 2. 将 `skills/libowen` 复制到你的 Claude Code skills 目录：
