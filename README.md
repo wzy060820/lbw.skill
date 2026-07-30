@@ -28,6 +28,27 @@ lbw.skill/
         └── SKILL.md        ← 李博文的赛博永生 skill
 ```
 
+### Demo
+
+以"要不要考研"为例，加载 skill 后 Claude 按李博文的决策工作流分析：
+
+![demo: invoke skill](assets/lbw.png)
+
+<details>
+<summary>点击展开完整分析过程</summary>
+
+![step 1: 第一关判断](assets/lbw1.png)
+
+![step 2: 重大决定处理](assets/lbw2.png)
+
+![step 3: 核心原则排序](assets/lbw3.png)
+
+![step 4: 执行层面分析](assets/lbw4.png)
+
+![step 5: 最终结论](assets/lbw5.png)
+
+</details>
+
 ### 快速开始
 
 1. 克隆仓库：
